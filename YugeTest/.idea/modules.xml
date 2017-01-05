@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/YugeTest.iml" filepath="$PROJECT_DIR$/YugeTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ipc/ipc.iml" filepath="$PROJECT_DIR$/ipc/ipc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scroller/scroller.iml" filepath="$PROJECT_DIR$/scroller/scroller.iml" />
     </modules>
   </component>
 </project>

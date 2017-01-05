@@ -1,1 +1,1 @@
-include ':app', ':ipc'
+include ':app', ':ipc', ':scroller'
